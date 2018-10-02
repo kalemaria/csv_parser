@@ -2,7 +2,7 @@
 
 Displays and plots csv files from the terminal.
 
-Done at the IMPRS Workshop, "Intermediate Python Programming for Scientiscs" in October 2018 at the Max Planck Institutes for Biochemistry and Neurobiology in Munich, Germany.
+Done at the IMPRS Workshop, "Intermediate Python Programming for Scientists" in October 2018 at the Max Planck Institutes for Biochemistry and Neurobiology in Munich, Germany.
 
 ## Installation
 
